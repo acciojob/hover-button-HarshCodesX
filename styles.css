@@ -1,12 +1,12 @@
-#btn{
-	background-color: black;
-	color: white;
-	border-radius: 5px;
-	border: none;
+#btn {
+    background-color: black; /* Ensure background is set to black */
+    color: white;            /* Set font color to white */
+    border-radius: 5px;      /* Initial border radius */
+    border: none;            /* No border */
 }
 
-#btn:hover{
-	background-color: yellow;
-	color: black;
-	border-radius: 30px;
+#btn:hover {
+    background-color: yellow; /* Hover background color to yellow */
+    color: black;             /* Hover font color to black */
+    border-radius: 30px;      /* Hover border radius */
 }
