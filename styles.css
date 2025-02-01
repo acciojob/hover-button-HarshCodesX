@@ -1,7 +1,7 @@
 #btn {
-    background-color: black; /* Ensure background is set to black */
-    color: white;            /* Set font color to white */
-    border-radius: 5px;      /* Initial border radius */
+    background-color: black;
+    color: white;            
+    border-radius: 5px;    
     border: none;            /* No border */
 }
 
